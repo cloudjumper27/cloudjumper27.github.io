@@ -22,12 +22,12 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: red;
+    color: white;
     background-color: black;
 }
 
 h2 {
-    color: red;
+    color: white;
     background-color: black;
 }
 body {
@@ -37,7 +37,7 @@ body {
 p {
     font-size: 1em;
     line-height: 1.4em;
-    color: red;
+    color: white;
     background-color: black;
 }
 footer {
